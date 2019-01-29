@@ -1,1 +1,3 @@
-document.write(5+6);
+var a = 5;
+var b = 5;
+document.write(a + b);
