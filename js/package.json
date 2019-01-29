@@ -1,0 +1,16 @@
+{
+  "name": "sprint0",
+  "version": "1.0.1",
+  "description": "This is the json file for sprint 0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sprint-0-sq19-holbrook20"
+  },
+  "author": "Cole Holbrook",
+  "license": "ISC"
+}

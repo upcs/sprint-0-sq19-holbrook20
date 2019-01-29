@@ -1,0 +1,23 @@
+{
+  "name": "sprint0.2",
+  "version": "1.0.0",
+  "description": "Runs the website",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-holbrook20.git"
+  },
+  "author": "Cole Holbrook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-holbrook20/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-holbrook20#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
