@@ -1,3 +1,6 @@
 var a = 5;
 var b = 5;
-document.write(a + b);
+function sum(a, b){
+  return a + b;
+}
+document.write(sum(a,b));
